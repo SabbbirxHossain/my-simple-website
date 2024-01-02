@@ -1,4 +1,4 @@
-div{
+.first-div{
   background-color: #b93030a9;
   height: 300px;
   text-align: center;
@@ -6,4 +6,8 @@ div{
   font-size: 40px;
   margin-top: 150px;
   
+}
+
+.second-div{
+  background-color: #d4f738cc;
 }
